@@ -1,1 +1,1 @@
-TicTacToe/java/1Projekt
+TicTacToe/java/kommandozeile/ErsteProjekt
